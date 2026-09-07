@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>First Webpage</title>
+</head>
+<body>
+    <h1>Welcome to My First Webpage</h1>
+    <p>This is a simple paragraph on my webpage.</p>
+</body>
+<h2>Kafeero Abraham 25/EDS/BU/R/0020</h2>
+<IMAGE></IMAGE>
